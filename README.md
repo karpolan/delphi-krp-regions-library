@@ -9,6 +9,8 @@ In 2024 the author got permission from **ABF** to publish all source code of **k
 
 Enjoy :)
 
+![banner_krpRegions](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791)
+
 
 ## Description
 The **krpRegions library** was designed especially for software developers who are bored of standard box-styled windows and want to create cool and unusual application interfaces.
