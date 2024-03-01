@@ -9,13 +9,14 @@ This set of components was a **closed-source product**, it was commercially dist
 <img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791" alt="banner" title="One of advertisement banners to promote krpRegions Library in 20th century :)" />
 </p>
 
-In 2024 the author got permission from **ABF** to publish all source code of **krpRegions library** as is.
+In 2024 the author obtained permission from **ABF** to publish all source code of **krpRegions library** as is.
 
 Enjoy :)
 
 
 ## Description
 The **krpRegions library** was designed especially for software developers who are bored of standard box-styled windows and want to create cool and unusual application interfaces.
+![skin_samples](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/c443a744-1dfc-4bc9-8ace-2030cd616c6c)
 
 The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine** and **AREA-BY-COLOR algorithm**. 
 
