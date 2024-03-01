@@ -23,6 +23,11 @@ The **krpRegions library** was designed especially for software developers who a
 
 The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine** and **AREA-BY-COLOR algorithm**. 
 
+![skin_selected](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/6dbc1719-4d10-434e-84bc-8d8e74858eec)
+![skin_normal](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/b612dc97-7e36-47e0-adb0-c9cb0f7d0923)
+![skin_active](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/5fc88b9f-146a-43be-aeaf-6997a21214d8)
+![mask_color](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/38002443-1edd-4cf6-993e-7e27ebb6663f)
+
 
 ## Requirements
 * Borland Delphi 3 (and  higher) or C++Builder 3 (and higher). 
