@@ -10,6 +10,7 @@ In 2024 the author got permission from **ABF** to publish all source code of **k
 Enjoy :)
 
 <center>  
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791" alt="banner" title="One of advertisement banners to promote krpRegions Library in 20th century :)" />
 ![banner_krpRegions](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791)
 </center>
 
