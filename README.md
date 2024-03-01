@@ -34,35 +34,39 @@ If you don't see new components in the components palette:
 
 
 ## History
-September 20, 2005. (Version 2.0):
+
+### December 29, 2024. (Version AS IS):
+The source code is published AS IS in on GitHub
+
+### September 20, 2005. (Version 2.0):
 Some components were redesigned. Added recovery if controls recreate window handle. Delphi 2005 is supported. 
 
-June 20, 2003. (Version 1.7):
+### June 20, 2003. (Version 1.7):
 Moved to www.abf-dev.com web site. Some minor changes.
 
-July 21, 2002. (Version 1.6):
+### July 21, 2002. (Version 1.6):
 Delphi 7 support. Some new features.
 
-January 9, 2002. (Version 1.51):
+### January 9, 2002. (Version 1.51):
 C++Builder 6 support. Some minor changes.
 
-August 28, 2001. (Version 1.5):
+### August 28, 2001. (Version 1.5):
 Actions are supported. Non-rectangular region painting added.
 
-December 12, 2000. (Version 1.4):
+### December 12, 2000. (Version 1.4):
 Some components have been redesigned. Exceptions are not used for program logic anymore.
 
-June 6, 2000. (Version 1.3):
+### June 6, 2000. (Version 1.3):
 C++Builder 5 support. Now distributed by ABF software, Inc. (http://www.ABFsoftware.com). Fixed bug under Windows NT and Windows 2000 in 15/16 bit (32768/65536 colors) video modes.
 
-November 26, 1999. (Version 1.1):
+### November 26, 1999. (Version 1.1):
 Non-english Delphi/C++Builder bugs fixed. The installation program changed. Added *.int files.
 
-November 7, 1998. (Version 1.0):
+### November 7, 1998. (Version 1.0):
 First public release.
 
-September 11, 1998. (Beta Version):
+### September 11, 1998. (Beta Version):
 Components for Delphi 3
 
-April 23, 1998. (Alpha Version):
+### April 23, 1998. (Alpha Version):
 The "Skinengin" concept and "AREA-BY-COLOR" algorithm
