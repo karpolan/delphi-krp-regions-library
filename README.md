@@ -72,10 +72,10 @@ Actions are supported. Non-rectangular region painting added.
 Some components have been redesigned. Exceptions are not used for program logic anymore.
 
 ### June 6, 2000. (Version 1.3):
-C++Builder 5 support. Now distributed by ABF software, Inc. (http://www.ABFsoftware.com). Fixed bug under Windows NT and Windows 2000 in 15/16 bit (32768/65536 colors) video modes.
+C++Builder 5 support. Now distributed by ABF software, Inc. (www.ABFsoftware.com). Fixed bug under Windows NT and Windows 2000 in 15/16 bit (32768/65536 colors) video modes.
 
 ### November 26, 1999. (Version 1.1):
-Non-english Delphi/C++Builder bugs fixed. The installation program changed. Added *.int files.
+Non-English Delphi/C++Builder bugs fixed. The installation program changed. Added *.int files.
 
 ### November 7, 1998. (Version 1.0):
 First public release.
