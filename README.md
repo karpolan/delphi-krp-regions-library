@@ -21,12 +21,14 @@ The **krpRegions library** was designed especially for software developers who a
 <img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/c443a744-1dfc-4bc9-8ace-2030cd616c6c1" alt="same app different skins" title="Demo of the same app with different skins" />
 </p>
 
-The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine** and **AREA-BY-COLOR algorithm**. 
+The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine**, **Multi-color masks**, and **AREA-BY-COLOR algorithm**. 
 
-![mask_color](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/38002443-1edd-4cf6-993e-7e27ebb6663f)
-![skin_normal](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/b612dc97-7e36-47e0-adb0-c9cb0f7d0923)
-![skin_selected](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/6dbc1719-4d10-434e-84bc-8d8e74858eec)
-![skin_active](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/5fc88b9f-146a-43be-aeaf-6997a21214d8)
+<p align="center"> 
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/38002443-1edd-4cf6-993e-7e27ebb6663f" alt="Multi-color mask" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/b612dc97-7e36-47e0-adb0-c9cb0f7d0923" alt="Skin for Normal state" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/6dbc1719-4d10-434e-84bc-8d8e74858eec" alt="Skin for Hover state" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/5fc88b9f-146a-43be-aeaf-6997a21214d8" alt="Skin for Active state" />
+</p>
 
 
 ## Requirements
