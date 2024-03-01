@@ -18,7 +18,7 @@ The **krpRegions library** is a set of powerful and easy-to-use components for B
 
 ## Requirements
 * Borland Delphi 3 (and  higher) or C++Builder 3 (and higher). 
-* OS: Windows 95/98/Me/NT4/2000/XP/+
+* OS: Windows 95/98/Me/NT4/2000/XP/7-11
 
 
 ## How to install?
@@ -36,7 +36,7 @@ If you don't see new components in the components palette:
 ## History
 
 ### December 29, 2024. (Version AS IS):
-The source code is published AS IS in on GitHub
+The source code is published AS IS on GitHub
 
 ### September 20, 2005. (Version 2.0):
 Some components were redesigned. Added recovery if controls recreate window handle. Delphi 2005 is supported. 
