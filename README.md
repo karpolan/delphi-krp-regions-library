@@ -16,7 +16,10 @@ Enjoy :)
 
 ## Description
 The **krpRegions library** was designed especially for software developers who are bored of standard box-styled windows and want to create cool and unusual application interfaces.
-![skin_samples](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/c443a744-1dfc-4bc9-8ace-2030cd616c6c)
+
+<p align="center"> 
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/c443a744-1dfc-4bc9-8ace-2030cd616c6c1" alt="same app different skins" title="Demo of the same app with different skins" />
+</p>
 
 The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine** and **AREA-BY-COLOR algorithm**. 
 
