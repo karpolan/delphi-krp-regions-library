@@ -1,11 +1,11 @@
 # krpRegions library
 The **krpRegions library** is a set of components for **Borland Delphi** and **C++Builder** to create cool, unusual, or **skinnable** program user interfaces. This components set is the easiest way to make **skinnable** or **non-rectangular** windows.
 
-It was created by **Anton Karpenko** (better known as **KARPOLAN**) in 1998 
+It was created by **Anton Karpenko** (better known as [**KARPOLAN**](https://karpolan.com)) in 1998 
 
 This set of components was a **closed-source product**, it was commercialy distributed by **ABF software, Inc.** between 2000 and 2020
 
-In 2024 the author got permission from ABF to publish all source code of **krpRegions library** as is.
+In 2024 the author got permission from **ABF** to publish all source code of **krpRegions library** as is.
 
 Enjoy :)
 
