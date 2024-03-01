@@ -5,13 +5,13 @@ It was created by **Anton Karpenko** (better known as [**KARPOLAN**](https://kar
 
 This set of components was a **closed-source product**, it was commercially distributed by [**ABF software, Inc.**](https://abf-dev.com) between 2000 and 2020  years.
 
+<p align="center"> 
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791" alt="banner" title="One of advertisement banners to promote krpRegions Library in 20th century :)" />
+</p>
+
 In 2024 the author got permission from **ABF** to publish all source code of **krpRegions library** as is.
 
 Enjoy :)
-
-<center>  
-<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791" alt="banner" title="One of advertisement banners to promote krpRegions Library in 20th century :)" />
-</center>
 
 
 ## Description
