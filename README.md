@@ -24,10 +24,10 @@ The **krpRegions library** was designed especially for software developers who a
 The **krpRegions library** is a set of powerful and easy-to-use components for Borland Delphi/C++Builder. This library uses two fundamental technologies: **Skingine**, **Multi-color masks**, and **AREA-BY-COLOR algorithm**. 
 
 <p align="center"> 
-<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/38002443-1edd-4cf6-993e-7e27ebb6663f" alt="Multi-color mask" />
-<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/b612dc97-7e36-47e0-adb0-c9cb0f7d0923" alt="Skin for Normal state" />
-<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/6dbc1719-4d10-434e-84bc-8d8e74858eec" alt="Skin for Hover state" />
-<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/5fc88b9f-146a-43be-aeaf-6997a21214d8" alt="Skin for Active state" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/38002443-1edd-4cf6-993e-7e27ebb6663f" alt="Multi-color mask" title="The Multi-Color mask defines the shape and different active areas" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/b612dc97-7e36-47e0-adb0-c9cb0f7d0923" alt="Skin for Normal state" title="Skin image for Normal state contains full area" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/6dbc1719-4d10-434e-84bc-8d8e74858eec" alt="Skin for Hover state" title="Skin image for Hover state could be partial to save the application size" />
+<img src="https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/5fc88b9f-146a-43be-aeaf-6997a21214d8" alt="Skin for Active state"  title="Skin image for Active state could be partial as well" />
 </p>
 
 
