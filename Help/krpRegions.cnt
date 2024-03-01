@@ -1,0 +1,154 @@
+:BASE krpRegions.hlp
+:TITLE krpRegions library help
+1 Introduction
+2 Overview=Overview@krpRegions.hlp>Main
+2 License Agreement=License@krpRegions.hlp>Main
+2 How to install=HowToInstall@krpRegions.hlp>Main
+2 How to register=HowToRegister@krpRegions.hlp>Main
+1 How it works
+2 Skingines=Skingines@krpRegions.hlp>Main
+2 Regions=Regions@krpRegions.hlp>Main
+2 AREA_BY_COLOR=AREA_BY_COLOR@krpRegions.hlp>Main
+2 Skin format=SkinFormat@krpRegions.hlp>Main
+1 Contents
+2 Alphabetical classes list
+3 TkrpColorRegionCollection=TkrpColorRegionCollection@krpRegions.hlp>Main
+3 TkrpColorRegionCollectionItem=TkrpColorRegionCollectionItem@krpRegions.hlp>Main
+3 TkrpColorSkingine=TkrpColorSkingine@krpRegions.hlp>Main
+3 TkrpControlRegion=TkrpControlRegion@krpRegions.hlp>Main
+3 TkrpCustomControlRegion=TkrpCustomControlRegion@krpRegions.hlp>Main
+3 TkrpCustomSkin=TkrpCustomSkin@krpRegions.hlp>Main
+3 TkrpCustomSkingine=TkrpCustomSkingine@krpRegions.hlp>Main
+3 TkrpFastDrawingPanel=TkrpFastDrawingPanel@krpRegions.hlp>Main
+3 TkrpGif=TkrpGif@krpRegions.hlp>Main
+3 TkrpLinkedComponent=TkrpLinkedComponent@krpRegions.hlp>Main
+3 TkrpOpenSkinDialog=TkrpOpenSkinDialog@krpRegions.hlp>Main
+3 TkrpPcx=TkrpPcx@krpRegions.hlp>Main
+3 TkrpRectRegionCollectionItem=TkrpRectRegionCollectionItem@krpRegions.hlp>Main
+3 TkrpRectSkingine=TkrpRectSkingine@krpRegions.hlp>Main
+3 TkrpRegion=TkrpRegion@krpRegions.hlp>Main
+3 TkrpRegionCollection=TkrpRegionCollection@krpRegions.hlp>Main
+3 TkrpRegionCollectionItem=TkrpRegionCollectionItem@krpRegions.hlp>Main
+3 TkrpRegionsIniFile=TkrpRegionsIniFile@krpRegions.hlp>Main
+3 TkrpRegionsSkinFile=TkrpRegionsSkinFile@krpRegions.hlp>Main
+3 TkrpRunTimeBitmapDesc=TkrpRunTimeBitmapDesc@krpRegions.hlp>Main
+3 TkrpRunTimeBooleanDesc=TkrpRunTimeBooleanDesc@krpRegions.hlp>Main
+3 TkrpRunTimeColorDesc=TkrpRunTimeColorDesc@krpRegions.hlp>Main
+3 TkrpRunTimeCursorDesc=TkrpRunTimeCursorDesc@krpRegions.hlp>Main
+3 TkrpRunTimeDesc=TkrpRunTimeDesc@krpRegions.hlp>Main
+3 TkrpRunTimePictureDesc=TkrpRunTimePictureDesc@krpRegions.hlp>Main
+3 TkrpSkin=TkrpSkin@krpRegions.hlp>Main
+3 TkrpSkinFile=TkrpSkinFile@krpRegions.hlp>Main
+3 TSkinFile=TSkinFile@krpRegions.hlp>Main
+2 Alphabetical types list
+3 TBGRColor=TBGRColor@krpRegions.hlp>Main
+3 TkrpBorderStyle=TkrpBorderStyle@krpRegions.hlp>Main
+3 TkrpDescCallBack=TkrpDescCallBack@krpRegions.hlp>Main
+3 TkrpFreeNotifyProc=TkrpFreeNotifyProc@krpRegions.hlp>Main
+3 TkrpRunTimeState=TkrpRunTimeState@krpRegions.hlp>Main
+3 TKRRegion=TKRRegion@krpRegions.hlp>Main
+3 TKRUpdateRegionArea=TKRUpdateRegionArea@krpRegions.hlp>Main
+2 Alphabetical procedures list
+3 krpAddSlash=krpAddSlash@krpRegions.hlp>Main
+3 krpApplyRgnToControl=krpApplyRgnToControl@krpRegions.hlp>Main
+3 krpBoundsToRegion=krpBoundsToRegion@krpRegions.hlp>Main
+3 krpCopyDesktop=krpCopyDesktop@krpRegions.hlp>Main
+3 krpCopyRectFromDesktop=krpCopyRectFromDesktop@krpRegions.hlp>Main
+3 krpCreateGraphicFromFile=krpCreateGraphicFromFile@krpRegions.hlp>Main
+3 krpDelay=krpDelay@krpRegions.hlp>Main
+3 krpDirectoryExists=krpDirectoryExists@krpRegions.hlp>Main
+3 krpDrawRegionBorder=krpDrawRegionBorder@krpRegions.hlp>Main
+3 krpDrawRegionEdge=krpDrawRegionEdge@krpRegions.hlp>Main
+3 krpDrawRegionEdgeStd=krpDrawRegionEdgeStd@krpRegions.hlp>Main
+3 krpGetCaptionRect=krpGetCaptionRect@krpRegions.hlp>Main
+3 krpGetCaptionRegion=krpGetCaptionRegion@krpRegions.hlp>Main
+3 krpGetSysColorsNumber=krpGetSysColorsNumber@krpRegions.hlp>Main
+3 krpGraphicToRegion=krpGraphicToRegion@krpRegions.hlp>Main
+3 krpGraphicToRegionColorDefault=krpGraphicToRegionColorDefault@krpRegions.hlp>Main
+3 krpLoadGraphicFromFile=krpLoadGraphicFromFile@krpRegions.hlp>Main
+3 krpLoadPictureFromFile=krpLoadPictureFromFile@krpRegions.hlp>Main
+3 krpPictureToBitmap=krpPictureToBitmap@krpRegions.hlp>Main
+3 krpRegionsOpenSkinDialog=krpRegionsOpenSkinDialog@krpRegions.hlp>Main
+2 Classes and procedures by units
+3 krpRegionsCollectionItems
+4 Unit description=krpRegionsCollectionItems@krpRegions.hlp>Main
+4 TkrpColorRegionCollectionItem=TkrpColorRegionCollectionItem@krpRegions.hlp>Main
+4 TkrpRectRegionCollectionItem=TkrpRectRegionCollectionItem@krpRegions.hlp>Main
+4 TkrpRegionCollectionItem=TkrpRegionCollectionItem@krpRegions.hlp>Main
+4 Types
+5 TKRRegion=TKRRegion@krpRegions.hlp>Main
+5 TKRUpdateRegionArea=TKRUpdateRegionArea@krpRegions.hlp>Main
+3 krpRegionsCollections
+4 Unit description=krpRegionsCollections@krpRegions.hlp>Main
+4 TkrpColorRegionCollection=TkrpColorRegionCollection@krpRegions.hlp>Main
+4 TkrpRegionCollection=TkrpRegionCollection@krpRegions.hlp>Main
+3 krpRegionsComponents
+4 Unit description=krpRegionsComponents@krpRegions.hlp>Main
+4 TkrpControlRegion=TkrpControlRegion@krpRegions.hlp>Main
+4 TkrpCustomControlRegion=TkrpCustomControlRegion@krpRegions.hlp>Main
+4 TkrpFastDrawingPanel=TkrpFastDrawingPanel@krpRegions.hlp>Main
+3 krpRegionsDesc
+4 Unit description=krpRegionsDesc@krpRegions.hlp>Main
+4 TkrpRunTimeBitmapDesc=TkrpRunTimeBitmapDesc@krpRegions.hlp>Main
+4 TkrpRunTimeBooleanDesc=TkrpRunTimeBooleanDesc@krpRegions.hlp>Main
+4 TkrpRunTimeColorDesc=TkrpRunTimeColorDesc@krpRegions.hlp>Main
+4 TkrpRunTimeCursorDesc=TkrpRunTimeCursorDesc@krpRegions.hlp>Main
+4 TkrpRunTimeDesc=TkrpRunTimeDesc@krpRegions.hlp>Main
+4 TkrpRunTimePictureDesc=TkrpRunTimePictureDesc@krpRegions.hlp>Main
+4 Types
+5 TkrpDescCallBack=TkrpDescCallBack@krpRegions.hlp>Main
+3 krpRegionsDialogs
+4 Unit description=krpRegionsDialogs@krpRegions.hlp>Main
+4 TkrpOpenSkinDialog=TkrpOpenSkinDialog@krpRegions.hlp>Main
+4 Procedures
+5 krpRegionsOpenSkinDialog=krpRegionsOpenSkinDialog@krpRegions.hlp>Main
+3 krpRegionsGif
+4 Unit description=krpRegionsGif@krpRegions.hlp>Main
+4 TkrpGif=TkrpGif@krpRegions.hlp>Main
+3 krpRegionsPcx
+4 Unit description=krpRegionsPcx@krpRegions.hlp>Main
+4 TkrpPcx=TkrpPcx@krpRegions.hlp>Main
+3 krpRegionsProcs
+4 Unit description=krpRegionsProcs@krpRegions.hlp>Main
+4 Procedures
+5 krpAddSlash=krpAddSlash@krpRegions.hlp>Main
+5 krpApplyRgnToControl=krpApplyRgnToControl@krpRegions.hlp>Main
+5 krpBoundsToRegion=krpBoundsToRegion@krpRegions.hlp>Main
+5 krpCopyDesktop=krpCopyDesktop@krpRegions.hlp>Main
+5 krpCopyRectFromDesktop=krpCopyRectFromDesktop@krpRegions.hlp>Main
+5 krpCreateGraphicFromFile=krpCreateGraphicFromFile@krpRegions.hlp>Main
+5 krpDelay=krpDelay@krpRegions.hlp>Main
+5 krpDirectoryExists=krpDirectoryExists@krpRegions.hlp>Main
+5 krpDrawRegionBorder=krpDrawRegionBorder@krpRegions.hlp>Main
+5 krpDrawRegionEdge=krpDrawRegionEdge@krpRegions.hlp>Main
+5 krpDrawRegionEdgeStd=krpDrawRegionEdgeStd@krpRegions.hlp>Main
+5 krpGetCaptionRect=krpGetCaptionRect@krpRegions.hlp>Main
+5 krpGetCaptionRegion=krpGetCaptionRegion@krpRegions.hlp>Main
+5 krpGetSysColorsNumber=krpGetSysColorsNumber@krpRegions.hlp>Main
+5 krpGraphicToRegion=krpGraphicToRegion@krpRegions.hlp>Main
+5 krpGraphicToRegionColorDefault=krpGraphicToRegionColorDefault@krpRegions.hlp>Main
+5 krpLoadGraphicFromFile=krpLoadGraphicFromFile@krpRegions.hlp>Main
+5 krpLoadPictureFromFile=krpLoadPictureFromFile@krpRegions.hlp>Main
+5 krpPictureToBitmap=krpPictureToBitmap@krpRegions.hlp>Main
+3 krpRegionsSkingines
+4 Unit description=krpRegionsSkingines@krpRegions.hlp>Main
+4 TkrpColorSkingine=TkrpColorSkingine@krpRegions.hlp>Main
+4 TkrpCustomSkingine=TkrpCustomSkingine@krpRegions.hlp>Main
+4 TkrpRectSkingine=TkrpRectSkingine@krpRegions.hlp>Main
+3 krpRegionsSkins
+4 Unit description=krpRegionsSkins@krpRegions.hlp>Main
+4 TkrpCustomSkin=TkrpCustomSkin@krpRegions.hlp>Main
+4 TkrpSkin=TkrpSkin@krpRegions.hlp>Main
+4 TkrpSkinFile=TkrpSkinFile@krpRegions.hlp>Main
+3 krpRegionsTypes
+4 Unit description=krpRegionsTypes@krpRegions.hlp>Main
+4 TkrpLinkedComponent=TkrpLinkedComponent@krpRegions.hlp>Main
+4 TkrpRegion=TkrpRegion@krpRegions.hlp>Main
+4 TkrpRegionsIniFile=TkrpRegionsIniFile@krpRegions.hlp>Main
+4 TkrpRegionsSkinFile=TkrpRegionsSkinFile@krpRegions.hlp>Main
+4 TSkinFile=TSkinFile@krpRegions.hlp>Main
+4 Types
+5 TBGRColor=TBGRColor@krpRegions.hlp>Main
+5 TkrpBorderStyle=TkrpBorderStyle@krpRegions.hlp>Main
+5 TkrpFreeNotifyProc=TkrpFreeNotifyProc@krpRegions.hlp>Main
+5 TkrpRunTimeState=TkrpRunTimeState@krpRegions.hlp>Main

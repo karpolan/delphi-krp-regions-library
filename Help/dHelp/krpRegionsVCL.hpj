@@ -1,0 +1,13 @@
+[OPTIONS]
+DBCS=Yes
+LCID=0x409 0x0 0x0 ; English (United States)
+REPORT=Yes
+CNT=krpRegionsVCL.hhc
+HLP=krpRegionsVCL.hlp
+
+[FILES]
+krpRegionsVCL.rtf
+
+[WINDOWS]
+main="krpRegions library",,27904,,,f2
+Second="Properties,Methods,Events",(18,0,300,800),20740

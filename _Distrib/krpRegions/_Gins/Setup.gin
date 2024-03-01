@@ -1,0 +1,5 @@
+[Config]
+ImagePath=.
+UpdateVersionInfo=1
+ExeName=Setup
+Compression=RAR

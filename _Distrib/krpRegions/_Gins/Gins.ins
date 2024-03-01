@@ -1,0 +1,28 @@
+[CopyFiles]
+copyData=%InstallPath%
+
+[copyData]
+*.*=*.*
+%Presetup%\ReadMe.txt=%ProgramName%.txt,64
+%Presetup%\License.txt=License.txt,64
+
+[AddReg]                  
+regData=%RegistryKey%
+
+[regData]
+InstallPath=%InstallPath%
+ProgramGroup=%ProgramGroup%
+
+[Shortcuts]
+shtDataApp=%ProgramsMenu%\%CompanyName%\%ProgramName%
+
+[shtDataApp]
+About=%InstallPath%\%ProgramName%.txt
+License=%InstallPath%\License.txt
+Uninstall %ProgramName%=%Windows%\UnGins.exe,"%InstallPath%\%ProgramName%.log"
+
+[RunApp]
+Install package=%InstallPath%\Delpher.exe,krpRegions.cfg,,0,Installing packages...,1
+
+[Uninstall.PreRunApp]
+Uninstall package=%InstallPath%\Delpher.exe,krpRegions.cfg -u,,0,Uninstalling packages...,1

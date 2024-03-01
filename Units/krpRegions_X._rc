@@ -1,0 +1,40 @@
+/*------------------------------------------------------------------------*/
+/*                                                                        */
+/*  VERSION.RC                                                            */
+/*                                                                        */
+/*  Copyright (c) 2000, 2001 ABF software, Inc.                           */
+/*                                                                        */
+/*------------------------------------------------------------------------*/
+//#include <ver.h>
+
+VS_VERSION_INFO VERSIONINFO
+  FILEVERSION     $VerC$
+  PRODUCTVERSION  $VerC$
+  FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+  FILEOS          VOS__WINDOWS32
+  FILETYPE        VFT_APP
+
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "ABF software, Inc\0"
+      VALUE "FileDescription", "krpRegions library\0"
+      VALUE "FileVersion", "$Ver$\0"
+      VALUE "InternalName", "krpRegions\0"
+      VALUE "LegalCopyright", "Copyright \251 1996-2005 by KARPOLAN. Copyright \251 2000-2005 ABF software, Inc.\0"
+      VALUE "LegalTrademarks", "krpRegions™, ABF software™, AREA_BY_COLOR™, Skingine™\0"
+      VALUE "ProductName", "krpRegions library\0"
+      VALUE "ProductVersion", "$VerS$\0"
+      VALUE "Comments", "krpRegions library by ABF software, Inc.\0"
+    END
+
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN                               //  Language   |    Translation
+    VALUE "Translation", 0x409, 0x4E4 // U.S. English, Windows Multilingual
+  END
+END
+

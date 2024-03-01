@@ -1,0 +1,40 @@
+Demos\Lens\Lens.exe=..\Lens.exe
+Demos\Lens\Help\Lens.hlp=..\Lens.hlp
+Demos\Lens\Help\Lens.cnt=..\Lens.cnt
+Demos\Lens\Docs\ReadMe.txt=..\ReadMe.txt
+Demos\Lens\Docs\License.txt=..\License.txt
+Demos\Lens\Docs\info.usf=..\info.usf
+
+..\Docs\ABF.url=ABF.url
+
+
+Demos\Lens\Lens.exe=Lens.exe
+Demos\Lens\Help\Lens.hlp=Lens.hlp
+Demos\Lens\Help\Lens.cnt=Lens.cnt
+Demos\Lens\Docs\ReadMe.txt=ReadMe.txt
+Demos\Lens\Docs\License.txt=License.txt
+Demos\Lens\Docs\Home.url=Home.url
+Demos\Lens\Docs\pad.xml=pad.xml
+Demos\Lens\Docs\pad.htm=pad.htm
+
+Demos\Lens\skins\Default\skin.ini=skins\Default\*.*
+Demos\Lens\skins\Default\Mask.gif=skins\Default\*.*
+Demos\Lens\skins\Default\Normal.jpg=skins\Default\*.*
+Demos\Lens\skins\Default\Selected.jpg=skins\Default\*.*
+Demos\Lens\skins\Default\Active.jpg=skins\Default\*.*
+
+Demos\Lens\skins\Iron\skin.ini=skins\Iron\*.*
+Demos\Lens\skins\Iron\Iron Mask.gif=skins\Iron\*.*
+Demos\Lens\skins\Iron\Iron Normal.jpg=skins\Iron\*.*
+Demos\Lens\skins\Iron\Iron Active.jpg=skins\Iron\*.*
+
+Demos\Lens\skins\BIG\skin.ini=skins\Big\*.*
+Demos\Lens\skins\BIG\Mask.gif=skins\Big\*.*
+Demos\Lens\skins\BIG\Normal.gif=skins\Big\*.*
+Demos\Lens\skins\BIG\Active.gif=skins\Big\*.*
+
+Demos\Lens\skins\Stone\skin.ini=skins\Stone\*.*
+Demos\Lens\skins\Stone\Mask.gif=skins\Stone\*.*
+Demos\Lens\skins\Stone\Stone Normal.jpg=skins\Stone\*.*
+Demos\Lens\skins\Stone\Stone Selected.jpg=skins\Stone\*.*
+Demos\Lens\skins\Stone\Stone Active.jpg=skins\Stone\*.*

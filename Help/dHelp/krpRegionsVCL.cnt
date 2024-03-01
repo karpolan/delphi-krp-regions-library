@@ -1,0 +1,143 @@
+:Base krpRegionsVCL.hlp
+1 krpRegions library
+2 Alphabetical classes list
+3 TkrpColorRegionCollection=TkrpColorRegionCollection
+3 TkrpColorRegionCollectionItem=TkrpColorRegionCollectionItem
+3 TkrpColorSkingine=TkrpColorSkingine
+3 TkrpControlRegion=TkrpControlRegion
+3 TkrpCustomControlRegion=TkrpCustomControlRegion
+3 TkrpCustomSkin=TkrpCustomSkin
+3 TkrpCustomSkingine=TkrpCustomSkingine
+3 TkrpFastDrawingPanel=TkrpFastDrawingPanel
+3 TkrpGif=TkrpGif
+3 TkrpLinkedComponent=TkrpLinkedComponent
+3 TkrpOpenSkinDialog=TkrpOpenSkinDialog
+3 TkrpPcx=TkrpPcx
+3 TkrpRectRegionCollectionItem=TkrpRectRegionCollectionItem
+3 TkrpRectSkingine=TkrpRectSkingine
+3 TkrpRegion=TkrpRegion
+3 TkrpRegionCollection=TkrpRegionCollection
+3 TkrpRegionCollectionItem=TkrpRegionCollectionItem
+3 TkrpRegionsIniFile=TkrpRegionsIniFile
+3 TkrpRegionsSkinFile=TkrpRegionsSkinFile
+3 TkrpRunTimeBitmapDesc=TkrpRunTimeBitmapDesc
+3 TkrpRunTimeBooleanDesc=TkrpRunTimeBooleanDesc
+3 TkrpRunTimeColorDesc=TkrpRunTimeColorDesc
+3 TkrpRunTimeCursorDesc=TkrpRunTimeCursorDesc
+3 TkrpRunTimeDesc=TkrpRunTimeDesc
+3 TkrpRunTimePictureDesc=TkrpRunTimePictureDesc
+3 TkrpSkin=TkrpSkin
+3 TkrpSkinFile=TkrpSkinFile
+3 TSkinFile=TSkinFile
+2 Alphabetical types list
+3 TBGRColor=TBGRColor
+3 TkrpBorderStyle=TkrpBorderStyle
+3 TkrpDescCallBack=TkrpDescCallBack
+3 TkrpFreeNotifyProc=TkrpFreeNotifyProc
+3 TkrpRunTimeState=TkrpRunTimeState
+3 TKRRegion=TKRRegion
+3 TKRUpdateRegionArea=TKRUpdateRegionArea
+2 Alphabetical procedures list
+3 krpAddSlash=krpAddSlash
+3 krpApplyRgnToControl=krpApplyRgnToControl
+3 krpBoundsToRegion=krpBoundsToRegion
+3 krpCopyDesktop=krpCopyDesktop
+3 krpCopyRectFromDesktop=krpCopyRectFromDesktop
+3 krpCreateGraphicFromFile=krpCreateGraphicFromFile
+3 krpDelay=krpDelay
+3 krpDirectoryExists=krpDirectoryExists
+3 krpDrawRegionBorder=krpDrawRegionBorder
+3 krpDrawRegionEdge=krpDrawRegionEdge
+3 krpDrawRegionEdgeStd=krpDrawRegionEdgeStd
+3 krpGetCaptionRect=krpGetCaptionRect
+3 krpGetCaptionRegion=krpGetCaptionRegion
+3 krpGetSysColorsNumber=krpGetSysColorsNumber
+3 krpGraphicToRegion=krpGraphicToRegion
+3 krpGraphicToRegionColorDefault=krpGraphicToRegionColorDefault
+3 krpLoadGraphicFromFile=krpLoadGraphicFromFile
+3 krpLoadPictureFromFile=krpLoadPictureFromFile
+3 krpPictureToBitmap=krpPictureToBitmap
+3 krpRegionsOpenSkinDialog=krpRegionsOpenSkinDialog
+2 Classes and procedures by units
+3 krpRegionsCollectionItems
+4 Unit description=krpRegionsCollectionItems
+4 TkrpColorRegionCollectionItem=TkrpColorRegionCollectionItem
+4 TkrpRectRegionCollectionItem=TkrpRectRegionCollectionItem
+4 TkrpRegionCollectionItem=TkrpRegionCollectionItem
+4 Types
+5 TKRRegion=TKRRegion
+5 TKRUpdateRegionArea=TKRUpdateRegionArea
+3 krpRegionsCollections
+4 Unit description=krpRegionsCollections
+4 TkrpColorRegionCollection=TkrpColorRegionCollection
+4 TkrpRegionCollection=TkrpRegionCollection
+3 krpRegionsComponents
+4 Unit description=krpRegionsComponents
+4 TkrpControlRegion=TkrpControlRegion
+4 TkrpCustomControlRegion=TkrpCustomControlRegion
+4 TkrpFastDrawingPanel=TkrpFastDrawingPanel
+3 krpRegionsDesc
+4 Unit description=krpRegionsDesc
+4 TkrpRunTimeBitmapDesc=TkrpRunTimeBitmapDesc
+4 TkrpRunTimeBooleanDesc=TkrpRunTimeBooleanDesc
+4 TkrpRunTimeColorDesc=TkrpRunTimeColorDesc
+4 TkrpRunTimeCursorDesc=TkrpRunTimeCursorDesc
+4 TkrpRunTimeDesc=TkrpRunTimeDesc
+4 TkrpRunTimePictureDesc=TkrpRunTimePictureDesc
+4 Types
+5 TkrpDescCallBack=TkrpDescCallBack
+3 krpRegionsDialogs
+4 Unit description=krpRegionsDialogs
+4 TkrpOpenSkinDialog=TkrpOpenSkinDialog
+4 Procedures
+5 krpRegionsOpenSkinDialog=krpRegionsOpenSkinDialog
+3 krpRegionsGif
+4 Unit description=krpRegionsGif
+4 TkrpGif=TkrpGif
+3 krpRegionsPcx
+4 Unit description=krpRegionsPcx
+4 TkrpPcx=TkrpPcx
+3 krpRegionsProcs
+4 Unit description=krpRegionsProcs
+4 Procedures
+5 krpAddSlash=krpAddSlash
+5 krpApplyRgnToControl=krpApplyRgnToControl
+5 krpBoundsToRegion=krpBoundsToRegion
+5 krpCopyDesktop=krpCopyDesktop
+5 krpCopyRectFromDesktop=krpCopyRectFromDesktop
+5 krpCreateGraphicFromFile=krpCreateGraphicFromFile
+5 krpDelay=krpDelay
+5 krpDirectoryExists=krpDirectoryExists
+5 krpDrawRegionBorder=krpDrawRegionBorder
+5 krpDrawRegionEdge=krpDrawRegionEdge
+5 krpDrawRegionEdgeStd=krpDrawRegionEdgeStd
+5 krpGetCaptionRect=krpGetCaptionRect
+5 krpGetCaptionRegion=krpGetCaptionRegion
+5 krpGetSysColorsNumber=krpGetSysColorsNumber
+5 krpGraphicToRegion=krpGraphicToRegion
+5 krpGraphicToRegionColorDefault=krpGraphicToRegionColorDefault
+5 krpLoadGraphicFromFile=krpLoadGraphicFromFile
+5 krpLoadPictureFromFile=krpLoadPictureFromFile
+5 krpPictureToBitmap=krpPictureToBitmap
+3 krpRegionsSkingines
+4 Unit description=krpRegionsSkingines
+4 TkrpColorSkingine=TkrpColorSkingine
+4 TkrpCustomSkingine=TkrpCustomSkingine
+4 TkrpRectSkingine=TkrpRectSkingine
+3 krpRegionsSkins
+4 Unit description=krpRegionsSkins
+4 TkrpCustomSkin=TkrpCustomSkin
+4 TkrpSkin=TkrpSkin
+4 TkrpSkinFile=TkrpSkinFile
+3 krpRegionsTypes
+4 Unit description=krpRegionsTypes
+4 TkrpLinkedComponent=TkrpLinkedComponent
+4 TkrpRegion=TkrpRegion
+4 TkrpRegionsIniFile=TkrpRegionsIniFile
+4 TkrpRegionsSkinFile=TkrpRegionsSkinFile
+4 TSkinFile=TSkinFile
+4 Types
+5 TBGRColor=TBGRColor
+5 TkrpBorderStyle=TkrpBorderStyle
+5 TkrpFreeNotifyProc=TkrpFreeNotifyProc
+5 TkrpRunTimeState=TkrpRunTimeState

@@ -1,0 +1,41 @@
+[CopyFiles]
+copyData=%InstallPath%
+
+[copyData]
+*.*=*.*
+%Presetup%\ReadMe.txt=ReadMe.txt,64
+%Presetup%\License.txt=License.txt,64
+
+[AddReg]                  
+regData=%RegistryKey%
+
+[regData]
+InstallPath=%InstallPath%
+ProgramGroup=%ProgramGroup%
+
+[Shortcuts]
+shtProgram=%ProgramsMenu%
+shtDesktop=%Desktop%
+shtDataCompany=%CompanyFolder%
+shtDataApp=%AppFolder%
+
+[shtProgram]
+%ProgramName%=%InstallPath%\%ProgramFileName%.exe,,,,,1612,,The %ProgramName%
+
+[shtDesktop]
+%ProgramName%=%InstallPath%\%ProgramFileName%.exe,,,,,1612,,The %ProgramName%
+
+[shtDataCompany]
+www.ABFsoftware.com=%InstallPath%\ABF.url,,,,,,,'ABF software, Inc.',32
+
+[shtDataApp]
+%ProgramName%=%InstallPath%\%ProgramFileName%.exe,,,,,1612,,The %ProgramName%
+%ProgramName% Help=%InstallPath%\%ProgramFileName%.hlp,,,,,,,The %ProgramName% help
+ReadMe=%InstallPath%\ReadMe.txt,,,,,,,Information about %ProgramName%
+License=%InstallPath%\License.txt,,,,,,,The License Agreement
+Home page=%InstallPath%\Home.url,,,,,,,The %ProgramName% web page
+Uninstall %ProgramName%=%Windows%\UnGins.exe,"%InstallPath%\%ProgramFileName%_install.log",,,,,,Removes %ProgramName% from the computer
+
+[RunApp]
+;%ProgramName%=%InstallPath%\%ProgramFileName%.exe,,,,,0
+;%ProgramName% Help=%InstallPath%\%ProgramFileName%.hlp

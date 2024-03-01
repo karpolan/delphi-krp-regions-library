@@ -1,0 +1,24 @@
+[OPTIONS]
+HCW=0
+COMPRESS=12 Hall Zeck
+CONTENTS=Lens
+TITLE=Lens - magnifying glass help
+COPYRIGHT=Copyright © 1996-2000 by KARPOLAN
+DEFFONT=MS Sans Serif,8,1
+CHARSET=1
+LCID=0x0409
+FTS=1
+CNT=.\Lens.cnt
+HLP=.\Lens.hlp
+BMROOT=c:\abf\krpregions\demos\lens\help\images
+[FILES]
+.\Lens.rtf
+[WINDOWS]
+Main="Lens - magnifying glass help",(-1,-1,-1,-1),28420,(255,255,255),(192,192,192),f2
+[MAP]
+Lens=1
+AREA_BY_COLOR algorithm=2
+Skins=3
+[CONFIG]
+BrowseButtons()
+CreateButton(btn_net, Internet, ExecFile("http://www.abfsoftware.com/freeware/Lens/"))

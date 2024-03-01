@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1
+Contents file=contpage.hhc
+Default Window=Main
+Default topic=lens.htm
+Default font=MS Sans Serif,8,0
+Index file=index.hhk
+Auto Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=Lens - magnifying glass help
+
+[WINDOWS]
+Main="Lens - magnifying glass help","contpage.hhc","index.hhk","lens.htm","lens.htm",,,,,0x061520,0,0x304E,[-1,-1,-2,-2],0xb0000,,,,,,0
+
+[FILES]
+Lens.htm
+AREA_BY_COLOR_algorithm.htm
+Skins.htm

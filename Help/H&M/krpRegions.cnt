@@ -1,0 +1,12 @@
+:BASE krpRegions.hlp
+:TITLE krpRegions library help
+1 Introduction
+2 Overview=Overview@krpRegions.hlp
+2 License Agreement=License@krpRegions.hlp
+2 How to install=HowToInstall@krpRegions.hlp
+2 How to register=HowToRegister@krpRegions.hlp
+1 How it works
+2 Skingines=Skingines@krpRegions.hlp
+2 Regions=Regions@krpRegions.hlp
+2 AREA_BY_COLOR=AREA_BY_COLOR@krpRegions.hlp
+2 Skin format=SkinFormat@krpRegions.hlp
