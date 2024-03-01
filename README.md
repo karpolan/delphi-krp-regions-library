@@ -3,13 +3,15 @@ The **krpRegions library** is a set of components for **Borland Delphi** and **C
 
 It was created by **Anton Karpenko** (better known as [**KARPOLAN**](https://karpolan.com)) in 1998.
 
-This set of components was a **closed-source product**, it was commercially distributed by **ABF software, Inc.** between 2000 and 2020  years.
+This set of components was a **closed-source product**, it was commercially distributed by [**ABF software, Inc.**](https://abf-dev.com) between 2000 and 2020  years.
 
 In 2024 the author got permission from **ABF** to publish all source code of **krpRegions library** as is.
 
 Enjoy :)
 
+<center>  
 ![banner_krpRegions](https://github.com/karpolan/delphi-krpRegions-library/assets/1213313/69fb7d06-45ee-4a3f-9f24-c92d92ea8791)
+</center>
 
 
 ## Description
